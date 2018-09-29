@@ -53,8 +53,9 @@
     <% require themedJavascript('imagesloaded.pkgd.min') %>
     <% require themedJavascript('fitvids') %>
     <% require themedJavascript('parallax') %>
-  
-  
+    <% require themedJavascript('blog-tooltip') %>
+    <% require themedJavascript('custom-blog') %>
+ 
 	
 	 
 	
